@@ -16,7 +16,9 @@ Node* takeInput();
 void printLL(Node* head);
 Node* insertNode(Node* head, int i, int data);
 Node* append(Node* head, int data);
-Node* deleteNode(Node* head, int i);// prototype declaration of the function in a.cpp
+Node* deleteNode(Node* head, int i);
+Node* mergeSortedLL(Node* head1, Node* head2);
+Node* midPoint(Node* head);// prototype declaration of the function in a.cpp
 
 #endif
 
