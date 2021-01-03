@@ -14,5 +14,11 @@ public:
 	TreeNode(T data) ;
 };
 
+// TreeNode<int>* takeInput();
+
+// void printLevelwise(TreeNode<int>* root)
+// TreeNode<int>* takeInput();
+// void printLevelwise(TreeNode<int>* root)
+
 
 #endif
